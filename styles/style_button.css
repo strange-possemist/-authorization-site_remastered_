@@ -1,0 +1,18 @@
+.entry_button{
+  position: absolute;
+  bottom: 390px;
+  width: 195px;
+  height: 40px;
+  border: 0;
+  border-radius: 9px;
+  color: #EAE6F1;
+  background-color: #392F7E;
+  outline:0;
+  left: 767px;
+  font-weight: 560;
+  font-size: 15px;
+}
+.entry_button:active{
+  background-color: #DADBEA;
+  color: #9B9BB8;
+}

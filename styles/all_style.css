@@ -1,0 +1,29 @@
+body{
+  Background:#E3E3EE;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+
+}
+.text_sign_in{
+  position: absolute;
+  color: #323241;
+  top: 240px;
+  right:1015px;
+  font-weight: 800;
+  font-size:23px;
+  font-family: 'Roboto', sans-serif;
+}
+.site_icon{
+  position: relative;
+  top: -270px;
+  left: -100px;
+  
+}
+div{
+  position: absolute;
+  width: 1920px;
+  height: 900px;
+}
